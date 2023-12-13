@@ -1,0 +1,158 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+height: 2660px;
+}
+
+.child{
+    width: 1440px;
+    height: 650px;
+}
+
+.h1text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 170px;
+    margin: 100px;
+    margin-top: -200px;
+    color: white;
+    border: 2px solid grey;
+}
+
+.h1text{
+    width: 300px;
+}
+
+.h1-2{
+    margin-left: -280px;
+    margin-top: 160px;
+width: 445px;
+color: #000;
+font-family: Josefin Sans;
+font-size: 25px;
+font-style: normal;
+font-weight: 300;
+line-height: 48px; /* 100% */
+text-transform: uppercase;
+background-color: white;
+}
+
+.Bitmap{
+    width: 889px;
+height: 500px;
+display: flex;
+margin: 150px;
+margin-top: -20px;
+border: 2px solid grey;
+}
+
+.div10{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 889px;
+    height: 500px;
+}
+
+.ptag{
+    color: #000;
+
+font-family: Alata;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+margin: 22px;
+
+}
+
+.h3{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-left: 150px;
+    color: #000;
+    width: 500px;
+font-family: Josefin Sans;
+font-size: 48px;
+font-style: normal;
+font-weight: 300;
+line-height: 48px; /* 100% */
+text-transform: uppercase;
+
+}
+
+.Desktop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -30px;
+}
+
+.ALL{
+display: flex;
+align-items: center;
+justify-content: end;
+margin-top: -64px;
+margin-right: 175px;
+color: #000;
+font-family: Alata;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 14px; /* 100% */
+letter-spacing: 5px;
+text-transform: uppercase;
+border: 2px solid grey;
+width: 100px;
+margin-left: 1165px;
+}
+
+.black{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+}
+
+
+.warwera{
+    margin: 100px;
+    margin-top: -150px;
+    color: white;
+    font-size: 25px;
+    margin-right: 130px;
+    display: flex;
+    
+}
+
+.logo{
+    margin: -250px;
+    margin-left: -3000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fb{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: -250px;
+    margin-left: 1000px;
+}
+
+.new{
+    background-color: black;
+}
